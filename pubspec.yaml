@@ -65,6 +65,8 @@ flutter:
     - images/dice4.png
     - images/dice5.png
     - images/dice6.png
+    - images/ludo.png
+    - images/ludo1.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
